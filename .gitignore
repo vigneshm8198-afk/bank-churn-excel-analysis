@@ -1,0 +1,10 @@
+# Real Kaggle data (do not commit; users download it themselves)
+data/Churn_Modelling.csv
+# Kaggle credentials - NEVER commit
+kaggle.json
+# Python / OS / Excel noise
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+~$*.xlsx
